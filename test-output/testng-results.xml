@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NSW Stop Finder Automation Suite" duration-ms="9116" started-at="2018-09-18T22:46:35Z" finished-at="2018-09-18T22:46:44Z">
+    <groups>
+    </groups>
+    <test name="Functional Test" duration-ms="9116" started-at="2018-09-18T22:46:35Z" finished-at="2018-09-18T22:46:44Z">
+      <class name="com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest@271053e1]" name="setUp" is-config="true" duration-ms="6553" started-at="2018-09-18T22:46:35Z" finished-at="2018-09-18T22:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="statusCodeTest()[pri:1, instance:com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest@271053e1]" name="statusCodeTest" duration-ms="33" started-at="2018-09-18T22:46:41Z" finished-at="2018-09-18T22:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCodeTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest@271053e1]" name="setUp" is-config="true" duration-ms="479" started-at="2018-09-18T22:46:41Z" finished-at="2018-09-18T22:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="stopNameTest()[pri:2, instance:com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest@271053e1]" name="stopNameTest" duration-ms="1394" started-at="2018-09-18T22:46:42Z" finished-at="2018-09-18T22:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopNameTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest@271053e1]" name="setUp" is-config="true" duration-ms="516" started-at="2018-09-18T22:46:43Z" finished-at="2018-09-18T22:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="multipleModesTest()[pri:3, instance:com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest@271053e1]" name="multipleModesTest" duration-ms="48" started-at="2018-09-18T22:46:44Z" finished-at="2018-09-18T22:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleModesTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest@271053e1]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-09-18T22:46:44Z" finished-at="2018-09-18T22:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest -->
+    </test> <!-- Functional Test -->
+  </suite> <!-- NSW Stop Finder Automation Suite -->
+</testng-results>

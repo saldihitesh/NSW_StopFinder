@@ -1,0 +1,3 @@
+com\qa\ahq\nswstopfinder\common\RestUtil.class
+com\qa\ahq\nswstopfinder\common\TestUtil.class
+com\qa\ahq\nswstopfinder\tests\NswStopFinderGetAPITest.class

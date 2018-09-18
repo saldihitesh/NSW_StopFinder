@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [NSW Stop Finder Automation Suite]">
+  <parameter name="browser" value="CH"/>
+  <parameter name="appURL" value="https://transportnsw.info/trip#/"/>
+  <test thread-count="5" name="Functional Test(failed)">
+    <classes>
+      <class name="com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="stopNameTest"/>
+          <include name="statusCodeTest"/>
+          <include name="multipleModesTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.ahq.nswstopfinder.tests.NswStopFinderGetAPITest -->
+    </classes>
+  </test> <!-- Functional Test(failed) -->
+</suite> <!-- Failed suite [NSW Stop Finder Automation Suite] -->
